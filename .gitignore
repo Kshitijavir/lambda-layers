@@ -1,6 +1,3 @@
-# Ignore zip files (they are build artifacts)
-*.zip
-
 # Ignore __pycache__
 __pycache__/
 *.pyc
